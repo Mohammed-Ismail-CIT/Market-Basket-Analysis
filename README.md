@@ -1,1 +1,14 @@
 # Market-Basket-Analysis
+- It is a data mining technique used to learn the purchasing pattern of the customers in order to increase the sales.
+- The dataset describes about the requirements that a person expects from a smartphone in order to purchase it. The requirements that was provided in this analysis are as follows:
+  - Camera
+  - Battery standby
+  - Display
+  - Build quality
+  - Price
+  - Processor
+  - Storage
+  - OS and UI
+  - Security
+  - Sound quality
+- The data is collected using Google Forms and acquired as csv file for this project.
